@@ -1,0 +1,29 @@
+{
+  "dev": {
+    "awscloudformation": {
+      "AuthRoleName": "amplify-bankingfraudfrontend-dev-18284-authRole",
+      "UnauthRoleArn": "arn:aws:iam::301719010918:role/amplify-bankingfraudfrontend-dev-18284-unauthRole",
+      "AuthRoleArn": "arn:aws:iam::301719010918:role/amplify-bankingfraudfrontend-dev-18284-authRole",
+      "Region": "ap-southeast-1",
+      "DeploymentBucketName": "amplify-bankingfraudfrontend-dev-18284-deployment",
+      "UnauthRoleName": "amplify-bankingfraudfrontend-dev-18284-unauthRole",
+      "StackName": "amplify-bankingfraudfrontend-dev-18284",
+      "StackId": "arn:aws:cloudformation:ap-southeast-1:301719010918:stack/amplify-bankingfraudfrontend-dev-18284/8c3d1ec0-6127-11f0-9802-0218da5e69e5",
+      "AmplifyAppId": "d1f6gacjns9r67"
+    },
+    "categories": {
+      "auth": {
+        "bankingfraudfrontend80dbbb9f": {}
+      },
+      "function": {
+        "S3Trigger1590c087": {
+          "deploymentBucketName": "amplify-bankingfraudfrontend-dev-18284-deployment",
+          "s3Key": "amplify-builds/S3Trigger1590c087-43784b595a7550704156-build.zip"
+        }
+      },
+      "storage": {
+        "apibackend": {}
+      }
+    }
+  }
+}

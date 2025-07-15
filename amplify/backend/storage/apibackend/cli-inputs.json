@@ -1,0 +1,18 @@
+{
+  "resourceName": "apibackend",
+  "policyUUID": "b2cf4f8c",
+  "bucketName": "bankingfraudfrontend3b1d6e9156e448c7bef0a31d0fa",
+  "storageAccess": "authAndGuest",
+  "guestAccess": [
+    "CREATE_AND_UPDATE",
+    "READ",
+    "DELETE"
+  ],
+  "authAccess": [
+    "CREATE_AND_UPDATE",
+    "READ",
+    "DELETE"
+  ],
+  "triggerFunction": "S3Trigger1590c087",
+  "groupAccess": {}
+}
